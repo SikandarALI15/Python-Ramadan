@@ -1,0 +1,41 @@
+Question 1: Zero-Shot Prompting
+
+Read the following customer review and tell me if it is positive or negative.
+Review: 'The food was cold and the service was very slow. I will not come back again.
+
+
+
+Question 2: One-Shot Prompting
+
+"I want you to change names from First Last format to Last, First format.
+Example: John Doe → Doe, John
+Now do the same for this name: Sarah Johnson"
+
+
+Question 3: Few-Shot Prompting
+
+"Here are three short product descriptions:
+
+Soft cotton socks that keep your feet warm all day.
+A strong metal water bottle that never leaks.
+A light backpack with many pockets for easy storage.
+Now write a short product description for a wireless phone charger using the same style."
+
+
+
+Question 4: System Prompting
+
+"You are a customer support assistant for a phone company. You must always be polite and friendly. You are not allowed to use rude words or talk about other companies. Always answer in simple, easy language. If you do not know the answer, say 'I will connect you to a human agent.'"
+
+
+
+Question 5: Role Prompting
+
+"You are a professional doctor with 20 years of experience. A patient tells you: 'I have had a headache every morning for the past two weeks and I feel dizzy when I stand up.' What could be the possible reasons for this and what should the patient do next?"
+
+
+
+Question 6: Contextual Prompting
+
+"Here is information about a small bakery: The bakery is called Sweet Bites. It has 2 staff members. It sells cakes and cookies. It is open Monday to Saturday. It has a budget of $500 for marketing. Most customers are in the age group of 20 to 35 and they use Instagram.
+Based only on this information, write a simple marketing plan for Sweet Bites."
